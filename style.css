@@ -1,4 +1,7 @@
 input {
   background-color: yellow;
   color: black;
+  color: green;
+  width: 100px;
+  height: 100px;
 }
